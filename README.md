@@ -29,13 +29,10 @@ Este plugin permite a criação de múltiplos carrosséis utilizando Bootstrap e
  ![Adição de carrossel](imagens/toggle1.png)
 
 3. Selecione `editar` no carrossel criado, em seguida selecione `adicionar item`:
-<br>
- ![Adição de carrossel](imagens/adc%20carrossel.png)
-<br> 
-![Adição de carrossel](imagens/adccarrossel2.png)
+   ![Adição de carrossel](imagens/adc%20carrossel.png)
+   ![Adição de carrossel](imagens/adccarrossel2.png)
     - Adicione as imagens, titulo, descrição e link de destino do conteúdo desejado.
 4. Salve o carrossel.
-<br> 
 ![Adição de carrossel](imagens/itemadc.png)
 5. Um shortcode único será gerado para o carrossel na página inicial. Copie este shortcode.
 
