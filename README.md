@@ -24,8 +24,8 @@ Este plugin permite a criação de múltiplos carrosséis utilizando Bootstrap e
 
 ### Adicionando um novo carrossel
 
-1. No painel administrativo do WordPress, vá para `Carrosséis`
-   escolha o nome do seu novo carrossel e clique em `Adicionar Carrossel`.
+1. No painel administrativo do WordPress, vá para `Carrosséis` escolha o nome do seu novo carrossel e clique em `Adicionar Carrossel`.
+   <br>
  ![Adição de carrossel](imagens/toggle1.png)
 
 3. Selecione `editar` no carrossel criado, em seguida selecione `adicionar item`:
