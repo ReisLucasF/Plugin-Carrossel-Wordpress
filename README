@@ -1,4 +1,4 @@
-# WordPress Carousel Plugin
+# Carossel Customizado Plugin
 
 Este plugin permite a criação de múltiplos carrosséis utilizando Bootstrap e Owl Carousel. Ele possui uma interface visual intuitiva que permite a adição de vários carrosséis, gerando um shortcode único para cada um. Você pode incluir o shortcode diretamente no corpo do site.
 
@@ -18,17 +18,22 @@ Este plugin permite a criação de múltiplos carrosséis utilizando Bootstrap e
 ## Instalação
 
 1. Baixe o plugin.
-3. No painel administrativo do WordPress, vá para `Plugins` e ative o `WordPress Carousel Plugin`.
+3. No painel administrativo do WordPress, vá para `Plugins`, adicione e ative o `Carossel Customizado`.
 
 ## Uso
 
 ### Adicionando um novo carrossel
 
-1. No painel administrativo do WordPress, vá para `Carrosséis` e clique em `Adicionar Novo`.
-2. Configure as opções do carrossel:
-    - Adicione as imagens ou conteúdo desejado.
+1. No painel administrativo do WordPress, vá para `Carrosséis` escolha o nome do seu novo carrossel e clique em `Adicionar Carrossel`.
+ ![Adição de carrossel](imagens/toggle1.png)
+
+2. Selecione `editar` no carrossel criado, em seguida selecione `adicionar item`:
+ ![Adição de carrossel](imagens/adc%20carrossel.png)
+ ![Adição de carrossel](imagens/adccarrossel2.png)
+    - Adicione as imagens, titulo, descrição e link de destino do conteúdo desejado.
 3. Salve o carrossel.
-4. Um shortcode único será gerado para o carrossel. Copie este shortcode.
+ ![Adição de carrossel](imagens/itemadc.png)
+4. Um shortcode único será gerado para o carrossel na página inicial. Copie este shortcode.
 
 ### Inserindo o carrossel no site
 
